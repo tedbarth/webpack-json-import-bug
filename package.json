@@ -1,0 +1,15 @@
+{
+  "name": "webpack-json-import-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch --progress"
+  },
+  "dependencies": {
+    "before-build-webpack": "^0.2.9",
+    "extra-watch-webpack-plugin": "^1.0.3",
+    "fs-extra": "^8.1.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
