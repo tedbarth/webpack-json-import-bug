@@ -10,6 +10,6 @@
     "extra-watch-webpack-plugin": "^1.0.3",
     "fs-extra": "^8.1.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   }
 }
